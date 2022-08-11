@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ibrahim Eldesoky  Alghala</h1>
-<h3 align="center"> I Have Graduate experience with programming languages and Write Queries for Data Analysis, Projects Management, Data Visualization, Practical statistics using Python, Familiarity with Agile practices, and I’m seeking opportunities for continuous improvement, learning, and applying my skills to add a value in a teamwork environment.</h3>
+<h3 align="center"> I Have 2+years experience with programming languages and Write Queries for Data Analysis, Projects Management, Data Visualization, Practical statistics using Python, Familiarity with Agile practices, and I’m seeking opportunities for continuous improvement, learning, and applying my skills to add a value in a teamwork environment.</h3>
 
 
 
