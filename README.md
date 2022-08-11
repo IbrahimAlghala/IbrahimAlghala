@@ -13,3 +13,6 @@
 - 🌱 Got a certificate ITI platform at Python Programming and Database Fundamentals.
 - 🌱 Got a certificate Kaggle platform at Data Analysis Basics.
 - 📫 How to reach me *Ibrahim.alghala1911@gmail.com*
+- 💬 Ask me about Python, SQL, DAX, Excel, Power BI, Tableau
+- 🤓 Always learning, and applying my skills
+- 🐼 Doing my best
