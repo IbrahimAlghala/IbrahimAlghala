@@ -5,7 +5,7 @@
 
 
 <br>
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 150px/>
 
 - :school: Egyptian Academy of computer information and technology management (Tanta University).
 - 🌱 Graduated from " Data Science and Business Analytics" offered by The Sparks Foundation.
